@@ -15,3 +15,6 @@ spring:
   cloud:
     services:
       registrationMethod: route
+
+ribbon:
+  IsSecure: false
